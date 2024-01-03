@@ -1,0 +1,1 @@
+"""Test case for 7-eleven"""
